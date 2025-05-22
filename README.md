@@ -1,3 +1,3 @@
-# focus_flash
+# Focus flash
 
 Read smart. Remember faster.
